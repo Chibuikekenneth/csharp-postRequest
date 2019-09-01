@@ -1,2 +1,6 @@
 .vscode
 postRequest.cs
+vatebra.csproj
+obj
+bin
+Install-Package
